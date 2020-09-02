@@ -33,3 +33,47 @@ Untracked files:
         answers.md
 
 Answer 6:
+On branch master
+No commits yet
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+Answer 7: 
+On branch master
+Changes not staged for commit:
+        modified:   answers.md
+no changes added to commit
+
+Answer 8:
+commit 24be2ef7adac7f2528bb633382cf0bf53225f1ff (HEAD -> master)
+Author: Mark Orszycki <mo509316@ohio.edu>
+Date:   Wed Sep 2 16:35:18 2020 -0400
+    Initial commit
+
+Answer 9:
+On branch master
+Your branch is up to date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 10:
+The changes were not reflected in my local copy.
+
+Answer 11: 
+The push attempt is rejected as I need to fetch the origin and update the ReadME.md file (as it wasn't updated localy) before being able to commit.
+
+Output: To https://github.com/morszycki/git-lab.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/morszycki/git-lab.git'
+
+Answer 12:
+Yes, the changes were reflected in my local copy.
+
+Answer 13:
+.               ..              .git            .gitignore      README.md
+
